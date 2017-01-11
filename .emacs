@@ -24,4 +24,6 @@
  )
 (setq sml/theme 'powerline)
 (sml/setup)
+;; MORE SETTING BELOW HERE
+
 
